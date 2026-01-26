@@ -1,0 +1,7 @@
+{
+  "name": "MapScraper AI",
+  "description": "A powerful business intelligence and lead generation tool that leverages Gemini's Maps Grounding to extract and analyze place data from Google Maps.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
